@@ -1,0 +1,37 @@
+.osisapps-img img{
+    width: 80px;
+   
+}
+.osisapps-img{
+    display: flex;
+    justify-content: space-evenly;
+}
+.osisapps-centr{
+    display: flex;
+    justify-content: center;
+    color: rgb(25, 25, 74);
+   margin-top: 150px;
+}
+.osisaps-content{
+    display: flex;
+    justify-content: center;
+    
+   
+    
+}
+.osisapps-contiener{
+    max-width: 1150px;
+    width: 100%;}
+    
+
+.osisapps-img p{
+    display: flex;
+flex-direction: column;
+
+    color: #232f5f;
+    
+}
+.osis-p{
+    color: #232f5f;
+    font-size: 16px;
+}

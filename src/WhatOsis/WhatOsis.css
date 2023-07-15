@@ -1,0 +1,50 @@
+.whatosis-centre{
+    display: flex;
+    justify-content: center;
+    
+    
+    
+}
+.watosi-max-widhth{
+    max-width: 960px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.wahtosis-p{
+ width: 100%;
+ font-size: 18px;
+ color: rgb(25, 25, 74);
+ font-weight: 400;
+}
+.whatosis-h6{
+    font-size: 23px;
+    color: #101731;
+}
+.whatosis-img{
+    width: 83%;
+}
+.whatosis-img img{
+    height: 60vh;
+}
+
+
+    .container-osisMap-text-button button{
+        border: none;
+        width: 50%;
+        background: linear-gradient(272.31deg,#cf8dc5 5.73%,#bdc4f7 26.56%,#71c1e3 61.46%,#95def8 85.42%);
+        border-radius: 100px;
+        box-sizing: border-box;
+        color: #fff;
+        display: block;
+        font-weight: 700;
+        max-width: 230px;
+        padding: 0.82em 0.8em 0.8em;
+        position: relative;
+        text-align: center;
+        z-index: 1;
+    }
+    .watosis-content{
+        width: 70%;
+    }

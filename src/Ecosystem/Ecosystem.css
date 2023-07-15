@@ -1,0 +1,35 @@
+.ecosystem-centre{
+    display: flex;
+    justify-content: center;
+    
+    
+    
+}
+.ecosistem-max-width{
+    max-width: 960px;
+    width: 100%;
+  
+}
+.ecosystem-content{
+   display: flex;
+   justify-content: space-between;
+   color: #232f5f;
+   
+}
+.ecosystem-p{
+    font-size: 14px;
+    width: 89%;
+    color: #232f5f;
+}
+.contiener-p{
+    color: #232f5f; 
+}
+.contiener{
+    color: #232f5f;  
+}
+.ecosystem-h2{
+    color: #232f5f;
+}
+    
+
+    

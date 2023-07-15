@@ -1,25 +1,41 @@
-import logo from './logo.svg';
 import './App.css';
+import AseenOn from './AseenOn/AseenOn';
+import Header from './Header/Header.jsx'
+import TheFirstWeb from './TheFirstWeb/TheFirstWeb';
+import WhatOsis from './WhatOsis/WhatOsis';
+import OsisApps from './OsisApps/OsisApps';
+import Ecosystem from './Ecosystem/Ecosystem'
+
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    <>
+      <Header />
+      <TheFirstWeb/>
+      <AseenOn/>
+     <WhatOsis/>
+     <OsisApps/>
+     <Ecosystem/>
+     
+    </>
+  )
 }
 
 export default App;
+
+
+
+
+   // <div className='app-centre'>
+    //   <div className='contiener-div'>
+    //     <div className='full-div'>
+    //       <div className='div1'></div>
+    //       <div className='div2'></div>
+    //     </div>
+    //     <div className='full-div'>
+    //       <div className='div3'></div>
+    //       <div className='div4'></div>
+    //     </div>
+    //   </div>
+    // </div>

@@ -1,0 +1,37 @@
+.header-centr{
+   display: flex;
+   justify-content: center;
+}
+.header-maxwith{
+    max-width: 960px;
+    width: 100%;
+}
+.nav ul {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    list-style: none;
+    
+    
+}
+.button{
+    background: none;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 0.4em 1.1em;
+   
+}
+
+button:hover {
+    background-color: #232f5f;
+    color: aliceblue;
+  }
+ 
+
+
+
+
+
+
+
+

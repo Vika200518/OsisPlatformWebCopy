@@ -1,0 +1,67 @@
+.theFirstWeb-centre{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.theFirstWeb-max-width{
+    max-width: 960px;
+    width: 100%;
+    
+}
+
+.theFirstWeb-contant {
+    display: flex;
+    justify-content: space-between;
+  
+   
+}
+
+.container-searchEngine-content-button button {
+    border: none;
+    width: 30%;
+    background: linear-gradient(272.31deg, #cf8dc5 5.73%, #bdc4f7 26.56%, #71c1e3 61.46%, #95def8 85.42%);
+    border-radius: 100px;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    display: block;
+    font-weight: 700;
+    margin: 2.3em 0;
+    max-width: 230px;
+    padding: 0.82em 0.8em 0.8em;
+    position: relative;
+    text-align: center;
+    z-index: 1
+}
+
+.theFirstWeb-img {
+width: 60%;
+}
+
+.div-h6 {
+    
+    -webkit-font-smoothing: antialiased;
+    background-color: #fff;
+    color: #232f5f;
+    font-family: Montserrat,sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 23px;
+    margin: 2.3em 0;
+    overflow-x: hidden;
+    padding: 0;
+    width: 67%;
+}
+   
+
+
+
+.theFirstWeb-img{
+   width: 80%;
+    font-size: 50%;
+}
+.theFirstWeb-title{
+    font-size: 22px;
+    color: #192247;
+}

@@ -1,0 +1,31 @@
+.aseenon-centre{
+    display: flex;
+    justify-content: center;
+    color: #151f44;
+}
+.Aseenon-img img{
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+  
+}
+.Aseenon-img {
+display: flex;
+justify-content: center;
+
+}
+.Aseenon-img{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.Aseenon-centre{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.aseenon-max-widht{
+    max-width: 1300px;
+    width: 100%;}
